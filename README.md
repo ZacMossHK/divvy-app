@@ -13,16 +13,6 @@ Although an internet connection is required to itemise receipts, Divvy is otherw
 <img src="https://user-images.githubusercontent.com/63399205/199167555-c51bd8ea-2d1f-40c1-85cf-59f6c56264e6.png" width="20%"/>
 </div>
 
-## Recordings
-
-A complete user flow using Divvy:
-
-https://user-images.githubusercontent.com/63399205/199172078-338f7cce-bb3d-4b96-9aed-c7eeccaefd64.mp4
-
-[Click here to see a recording of Divvy running on an iPhone.](https://vimeo.com/765974989)
-
-[Click here to see us present Divvy as part of our final group project at Makers.](https://youtu.be/zRn2Lerc43c?t=946)
-
 ## Tech
 
 Divvy uses the following tech stack:
@@ -63,3 +53,13 @@ Then to run
 ```
 npm start
 ```
+
+## Recordings
+
+A complete user flow using Divvy:
+
+https://user-images.githubusercontent.com/63399205/199172078-338f7cce-bb3d-4b96-9aed-c7eeccaefd64.mp4
+
+[Click here to see a recording of Divvy running on an iPhone.](https://vimeo.com/765974989)
+
+[Click here to see us present Divvy as part of our final group project at Makers.](https://youtu.be/zRn2Lerc43c?t=946)
